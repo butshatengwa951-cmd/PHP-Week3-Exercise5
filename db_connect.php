@@ -1,7 +1,7 @@
 <?php
 $host = "localhost:3307";
 $user = "root";
-$pass = "Butsha06#"; // default for XAMPP is empty
+$pass = "Butsha06#";
 $dbname = "my_app";
 
 $conn = new mysqli($host, $user, $pass, $dbname);
